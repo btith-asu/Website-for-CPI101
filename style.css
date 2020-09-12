@@ -1,0 +1,69 @@
+h1 {
+	color: gray;
+	font-family: roboto;
+	font-size: 400%;
+	text-align: center;
+}
+
+#smallh1{
+	color: gray;
+	font-family: roboto;
+	font-size: 200%;
+	text-align: center;
+}
+h2 {
+	color: blue;
+	font-family: roboto;
+	font-size: 300%;
+}
+
+p {
+	color: red;
+	font-family: roboto;
+ 	font-size: 160%;
+}
+
+a:link {
+	text-decoration: none;
+	font-family: roboto;
+	font-size: 300%
+}
+
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #6bFF33;
+}
+
+#link{
+	text-align: center;
+}
+
+.center{    
+    text-align: center;
+}
+
+.meme_top{
+	position: relative;
+	padding: 10px;
+	top: 80px;
+	right: 540px;    
+	text-align: center;
+    font-size: 40px;
+    color:white;
+    font-family: Impact;
+    text-shadow: 4px 4px #000000;
+}
+
+.meme_bottom{
+	position: relative;
+	bottom: 70px;
+	left: 520px;
+	text-align: center;
+	font-size: 50px;
+	color:white;
+	font-family: Impact;
+	text-shadow: 4px 4px #000000;
+}
